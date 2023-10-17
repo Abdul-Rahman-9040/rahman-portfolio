@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://dayanand-g.github.io/Portfolio/">
-    <img alt="Mockup" src="./assets/img/Screenshot.png"/>
+    
   </a>
 </div>
 
