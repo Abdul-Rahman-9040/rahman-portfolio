@@ -3,7 +3,7 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="https://dayanand-g.github.io/Portfolio/">dayanand-g.github.io</a>
+  <a href="https://dayanand-g.github.io/Portfolio/">Abdul Rahman Portfolio</a>
 </h2>
 
 <div align="center">
