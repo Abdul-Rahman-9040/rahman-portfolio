@@ -14,14 +14,7 @@
 
 <br/>
 
-<a href="https://github.com/dayanand-g/Portfolio"><img src="https://sloc.xyz/github/dayanand-g/Portfolio" alt="Total lines"></a>
-<a href="https://github.com/dayanand-g/Portfolio"><img src="https://visitor-badge.laobi.icu/badge?page_id=github.com/dayanand-g/Portfolio" alt="Number of Visitors"></a>
-<a href="https://github.com/dayanand-g/Portfolio/stargazers"><img src="https://img.shields.io/github/stars/dayanand-g/Portfolio" alt="github stars"></a>
-<a href="https://github.com/dayanand-g/Portfolio/network/members"><img src="https://img.shields.io/github/forks/dayanand-g/Portfolio" alt="github forks"></a>
-<a href="https://dayanand-g.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
-<a href="https://www.linkedin.com/in/dayanand-m-g-9623b71b7/"><img src="https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg" alt="linkedin"></a>
 
-</div>
 
 ⭐ Star this repo on GitHub — it helps!
 
@@ -42,7 +35,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://dayanand-g.github.io/Portfolio/)**
+To view a live example, **[click here]()**
 
 ## Tools Used 🛠️
 
