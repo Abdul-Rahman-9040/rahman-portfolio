@@ -1,15 +1,15 @@
-<div align="center">
+<div>
 
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="https://abdul-rahman-9040.github.io/rahman-portfolio/">Abdul Rahman Portfolio</a>
+ <center> <a href="https://abdul-rahman-9040.github.io/rahman-portfolio/">Abdul Rahman Portfolio</a></center>
 </h2>
 
-<div align="center">
-  <a href="https://abdul-rahman-9040.github.io/rahman-portfolio/">
+<div>
+  <center><a href="https://abdul-rahman-9040.github.io/rahman-portfolio/">
     
-  </a>
+  </a></center>
 </div>
 
 <br/>
